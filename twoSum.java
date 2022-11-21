@@ -34,6 +34,10 @@ public class twoSumString{
 
 
     public static void main(String[] args) {
+
+        String first = "23232"; 
+        String second = "2323"; 
+        System.out.println(findSum(first, second));
         
     }
     
